@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+#exclude Output folder
+**/figures
+**/inputs
+
+#Exclude datasets
+*.celloracle.*
+
 # Distribution / packaging
 .Python
 build/
