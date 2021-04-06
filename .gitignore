@@ -9,6 +9,8 @@ __pycache__/
 #exclude Output folder
 **/figures
 **/inputs
+**/data
+**/brain_example
 
 #Exclude datasets
 *.celloracle.*
