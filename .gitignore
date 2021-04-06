@@ -11,6 +11,7 @@ __pycache__/
 **/inputs
 **/data
 **/brain_example
+**/grn_vs_velocity
 
 #Exclude datasets
 *.celloracle.*
