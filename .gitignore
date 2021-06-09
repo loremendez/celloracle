@@ -8,7 +8,7 @@ __pycache__/
 
 #exclude Output folder
 **/figures
-**/inputs
+/inputs
 **/data
 **/brain_example
 **/grn_vs_velocity
