@@ -12,6 +12,7 @@ __pycache__/
 **/data
 **/brain_example
 **/grn_vs_velocity
+**/old_noteboooks
 
 #Exclude datasets
 *.celloracle.*
